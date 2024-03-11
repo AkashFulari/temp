@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 qwertyui
+=======
+jkh hz kh jzjhj kj iojo
+>>>>>>> b4fa758016835acf167202d72102438662465af0
