@@ -1,1 +1,10 @@
+<<<<<<< HEAD
 I am the main location file. I dont like any testing folder! :-(
+=======
+qwertyui
+ gf f dfgdfgjkjgk k
+
+
+
+akash fulari from this test folder
+>>>>>>> 791180d905872b1a9410f38266ab56e12c78f8f0
