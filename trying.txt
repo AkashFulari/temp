@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 skfj jks ksjhfkjsdfkshf jkhsjk dfhsjkhd fjksh fjkklhskfs lfs
 fs fhs
 asd
@@ -7,3 +8,14 @@ asdaslk akl klada90 iaosdaklsjd l
 sda
 dak huahsdkahskahis uhaiusasyiahhuia uiahsihasjkdnj
 asdj jlaoiqoje ijqiojsak jxncjznxjkcn uqiwj jqw9
+=======
+skfj jks
+sd lsjdfks jflsF sklfjsk
+sfs'
+asjkdasd lakjd ladadsnlk
+fs lfsj fkjs
+fs fklhskfs lfs
+fs fhs
+
+gjh jg jg jgjgg https://github.com/ApakaTech/ATUpdater-WinApplication.githttps://github.com/ApakaTech/ATUpdater-WinApplication.githttps://github.com/ApakaTech/ATUpdater-WinApplication.githttps://github.com/ApakaTech/ATUpdater-WinApplication.git
+>>>>>>> f8991053141dd5cd0fefedd323f99fcac753f4bf
